@@ -18,9 +18,9 @@ Building scalable applications, exploring cloud infrastructures, and focusing on
 ### Contributions
 <p align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/athar5443/athar5443/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/athar5443/athar5443/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/athar5443/athar5443/output/github-snake.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oiyay/oiyay/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oiyay/oiyay/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/oiyay/oiyay/output/github-snake.svg" width="100%" />
   </picture>
 </p>
 
